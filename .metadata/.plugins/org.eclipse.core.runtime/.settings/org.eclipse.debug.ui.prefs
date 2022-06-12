@@ -1,2 +1,2 @@
 eclipse.preferences.version=1
-preferredTargets=default\:default|
+preferredTargets=default\:default|org.eclipse.lsp4e.debug.toggleBreakpointTarget\:org.eclipse.lsp4e.debug.toggleBreakpointTarget|
