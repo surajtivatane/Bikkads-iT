@@ -9,8 +9,6 @@ public class test {
 		
 		
 		System.out.println("this is shshikant gholve");
-		
-		System.out.println("hi good evening suraj and ujjwala");
 	}
 
 }
